@@ -1,0 +1,13 @@
+{
+  "name": "data-uri-to-u8",
+  "description": "Get a Uint8Array from a data uri",
+  "version": "0.0.4",
+  "keywords": ["blob", "uri"],
+  "development": {},
+  "license": "MIT",
+  "component": {
+    "scripts": {
+      "data-uri-to-u8/index.js": "index.js"
+    }
+  }
+}
