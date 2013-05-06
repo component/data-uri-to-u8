@@ -3,7 +3,7 @@
   "repo": "component/data-uri-to-u8",
   "description": "Get a Uint8Array from a data uri",
   "version": "0.0.4",
-  "keywords": ["blob", "uri"],
+  "keywords": ["Uint8Array", "uri"],
   "dependencies": {
     "component/assert": "*"
   },
