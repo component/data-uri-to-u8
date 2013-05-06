@@ -1,7 +1,7 @@
 {
   "name": "data-uri-to-u8",
   "description": "Get a Uint8Array from a data uri",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "keywords": ["blob", "uri"],
   "development": {},
   "license": "MIT",
