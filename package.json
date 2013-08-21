@@ -2,12 +2,19 @@
   "name": "data-uri-to-u8",
   "description": "Get a Uint8Array from a data uri",
   "version": "1.0.0",
-  "keywords": ["blob", "uri"],
+  "keywords": [
+    "blob",
+    "uri"
+  ],
   "development": {},
   "license": "MIT",
   "component": {
     "scripts": {
       "data-uri-to-u8/index.js": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/data-uri-to-u8.git"
   }
 }
